@@ -1,5 +1,5 @@
 {
-	"name": "mediawiki/OpenIDConnect",
+	"name": "mediawiki/open-id-connect",
 	"description": "Provides authentication using OpenID Connect in conjunction with PluggableAuth",
 	"require": {
 		"jumbojett/openid-connect-php": "*"
